@@ -66,7 +66,7 @@ export default function Header() {
         <div className="header__logo">
           <Link href="/">
             <Image
-              src="/logo.png"
+              src="/skyward-roofing-logo_lightbackground.png"
               alt="Skyward Roofing"
               width={200}
               height={44}

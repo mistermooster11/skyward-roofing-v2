@@ -50,4 +50,18 @@ export const pricingCards: PricingCard[] = [
     description:
       "Full roof replacement for residential and commercial properties across all five NYC boroughs and Westchester. Written estimate and timeline before work begins.",
   },
+  {
+    price: "Call for Quote",
+    note: "Chimneys, gutters & drainage systems",
+    title: "Chimney & Gutters",
+    features: [
+      "Chimney flashing repair & repointing",
+      "Gutter cleaning & debris removal",
+      "Gutter repair & full replacement",
+      "Downspout extensions & drainage fixes",
+      "Ice dam prevention",
+    ],
+    description:
+      "Chimneys and gutters are the most overlooked sources of roof damage. We inspect, repair, and maintain both — so water has nowhere to go but away from your building.",
+  },
 ];

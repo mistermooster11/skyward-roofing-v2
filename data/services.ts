@@ -24,7 +24,7 @@ export const services: Service[] = [
   {
     number: "01",
     title: "Residential Roofing",
-    image: "/images/service-1.png",
+    image: "https://www.skywardroofing.com/uploads/1/1/6/0/116005231/skyward-roofing-service-nyc-orig.jpg",
     href: "/residential-roofing",
     width: 535,
     height: 643,
@@ -32,7 +32,7 @@ export const services: Service[] = [
   {
     number: "02",
     title: "Commercial Roofing",
-    image: "/images/service-2.png",
+    image: "https://www.skywardroofing.com/uploads/1/1/6/0/116005231/flat-roofing-service-skyward-roofing-nyc-orig.jpg",
     href: "/commercial-roofing",
     width: 535,
     height: 643,
@@ -40,7 +40,7 @@ export const services: Service[] = [
   {
     number: "03",
     title: "Flat Roofing",
-    image: "/images/service-3.webp",
+    image: "https://www.skywardroofing.com/uploads/1/1/6/0/116005231/commercial-flat-roof-install-skyward-roofing-nyc-orig.jpg",
     href: "/flat-roofing",
     width: 535,
     height: 643,
@@ -48,7 +48,7 @@ export const services: Service[] = [
   {
     number: "04",
     title: "Free Roof Inspection",
-    image: "/images/service-4.webp",
+    image: "https://www.skywardroofing.com/uploads/1/1/6/0/116005231/skyward-rooofing-service-example-nyc-orig_orig.jpg",
     href: "/free-roof-inspection",
     width: 535,
     height: 643,

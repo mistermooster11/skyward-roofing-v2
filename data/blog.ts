@@ -12,7 +12,7 @@ export type BlogPost = {
 export const blogPosts: BlogPost[] = [
   {
     slug: "/blog/repair-vs-replace-how-to-know-whats-right-for-your-roof",
-    image: "/images/blog-3.png",
+    image: "https://www.skywardroofing.com/uploads/1/1/6/0/116005231/bbranton-image5-orig.jpeg",
     date: "15",
     monthYear: "Apr '26",
     category: "Roof Advice",
@@ -23,7 +23,7 @@ export const blogPosts: BlogPost[] = [
   },
   {
     slug: "/blog/5-signs-your-flat-roof-needs-attention-before-the-next-rainstorm",
-    image: "/images/blog-2.png",
+    image: "https://www.skywardroofing.com/uploads/1/1/6/0/116005231/bbranton-image4-orig.jpeg",
     date: "01",
     monthYear: "Apr '26",
     category: "Flat Roofing",
@@ -34,7 +34,7 @@ export const blogPosts: BlogPost[] = [
   },
   {
     slug: "/blog/what-to-expect-during-a-free-roof-inspection",
-    image: "/images/blog-3.png",
+    image: "https://www.skywardroofing.com/uploads/1/1/6/0/116005231/bbranton-image5-orig.jpeg",
     date: "18",
     monthYear: "Mar '26",
     category: "Inspections",
@@ -45,7 +45,7 @@ export const blogPosts: BlogPost[] = [
   },
   {
     slug: "/blog/tpo-vs-epdm-vs-spf-which-flat-roof-system-is-right-for-your-building",
-    image: "/images/blog-2.png",
+    image: "https://www.skywardroofing.com/uploads/1/1/6/0/116005231/bbranton-image4-orig.jpeg",
     date: "05",
     monthYear: "Mar '26",
     category: "Flat Roofing",
@@ -56,7 +56,7 @@ export const blogPosts: BlogPost[] = [
   },
   {
     slug: "/blog/how-nyc-winters-affect-your-roof-and-what-you-can-do-about-it",
-    image: "/images/blog-3.png",
+    image: "https://www.skywardroofing.com/uploads/1/1/6/0/116005231/bbranton-image5-orig.jpeg",
     date: "20",
     monthYear: "Feb '26",
     category: "Maintenance",
@@ -67,7 +67,7 @@ export const blogPosts: BlogPost[] = [
   },
   {
     slug: "/blog/why-gutter-maintenance-is-a-roofing-issue",
-    image: "/images/blog-2.png",
+    image: "https://www.skywardroofing.com/uploads/1/1/6/0/116005231/bbranton-image4-orig.jpeg",
     date: "10",
     monthYear: "Feb '26",
     category: "Gutters",

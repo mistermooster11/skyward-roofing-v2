@@ -83,8 +83,8 @@ export default function AboutSection() {
         <div className="about__media">
           <div className="about__img-wrap">
             <Image
-              src="/images/about-row.webp"
-              alt="Skyward Roofing crew"
+              src="https://www.skywardroofing.com/uploads/1/1/6/0/116005231/img-6410.jpeg"
+              alt="Finished roof replacement by Skyward Roofing NYC"
               width={690}
               height={613}
               className="about__img"

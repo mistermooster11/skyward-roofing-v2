@@ -52,24 +52,24 @@ export default function FleetSection() {
         {/* RIGHT — 3 images stacked */}
         <div className="fleet-section__images">
           <Image
-            src="/wp-assets/About-Row-IMG-1.webp"
-            alt="Skyward Roofing completed project"
-            width={1024}
-            height={909}
-            className="fleet-section__img"
-          />
-          <Image
-            src="/wp-assets/Truck-Example-2.webp"
-            alt="Skyward Roofing roofing work"
+            src="https://www.skywardroofing.com/uploads/1/1/6/0/116005231/dji-fly-20250506-141730-527-1746555462466-photo.jpg"
+            alt="Tile and flat roof replacement by Skyward Roofing NYC"
             width={1024}
             height={683}
             className="fleet-section__img"
           />
           <Image
-            src="/wp-assets/Truck-Example-3.webp"
-            alt="Skyward Roofing NYC project"
+            src="https://www.skywardroofing.com/uploads/1/1/6/0/116005231/bobbranton-image2-orig-highqualitymaterialsservice_orig.jpeg"
+            alt="Top-down drone shot of asphalt shingle roof replaced by Skyward Roofing"
             width={1024}
-            height={541}
+            height={683}
+            className="fleet-section__img"
+          />
+          <Image
+            src="https://www.skywardroofing.com/uploads/1/1/6/0/116005231/img-4442-1.jpeg"
+            alt="Completed slate roof with dormers and chimney by Skyward Roofing"
+            width={1024}
+            height={683}
             className="fleet-section__img"
           />
         </div>

@@ -43,40 +43,37 @@ export default function TrustedLogos() {
     <section className="trusted" ref={sectionRef}>
       <div className="trusted__inner">
         <h2 className="trusted__heading">
-          Trusted by NYC Property Owners Across All Five Boroughs
+          Real Work. Real Results. Across All Five NYC Boroughs.
         </h2>
         <div className="trusted__logos">
           <div className="trusted__logo-item">
             <Image
-              src="/images/logos-restaurante-2.png"
-              alt="Restaurant Logo"
-              width={138}
-              height={80}
-              style={{ height: "60px", width: "auto" }}
+              src="/images/roofer-inspecting-asphalt-shingles-closeup.jpg"
+              alt="Skyward Roofing inspector examining asphalt shingles"
+              width={300}
+              height={200}
+              style={{ height: "120px", width: "auto", borderRadius: "6px", objectFit: "cover" }}
             />
           </div>
           <div className="trusted__logo-item">
             <Image
-              src="/images/logo-joia-beach.png"
-              alt="Joia Beach Logo"
-              width={265}
-              height={80}
-              style={{ height: "60px", width: "auto" }}
+              src="/images/chimney-inspection-repair-rooftop-worker.jpg"
+              alt="Skyward Roofing technician inspecting chimney on NYC rooftop"
+              width={300}
+              height={200}
+              style={{ height: "120px", width: "auto", borderRadius: "6px", objectFit: "cover" }}
             />
           </div>
           <div className="trusted__logo-item">
             <Image
-              src="/images/logos-restaurante-1.png"
-              alt="Restaurant Logo"
-              width={118}
-              height={78}
-              style={{ height: "60px", width: "auto" }}
+              src="/images/roofing-crew-installing-shingles-aerial-view.jpg"
+              alt="Skyward Roofing crew installing shingles on residential roof"
+              width={300}
+              height={200}
+              style={{ height: "120px", width: "auto", borderRadius: "6px", objectFit: "cover" }}
             />
           </div>
         </div>
-        <p className="trusted__disclaimer text-center text-xs mt-4">
-          Logos are property of their respective owners and used for identification only.
-        </p>
       </div>
     </section>
   );
