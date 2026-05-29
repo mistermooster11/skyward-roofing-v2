@@ -53,19 +53,12 @@ export default function HeroSection() {
     <section className="hero">
       {/* Video background */}
       <div className="hero__video-bg">
-        <video
-          autoPlay
-          muted
-          playsInline
-          loop
-          poster="/wp-assets/Title-Background-Image-scaled.webp"
+        <iframe
+          src="https://customer-ip9lnkk65px0t3ak.cloudflarestream.com/763e656c9cc93e0011a3131920dcd04f/iframe?autoplay=true&muted=true&loop=true&controls=false&preload=true"
+          className="hero__video-iframe"
+          allow="autoplay; fullscreen"
           aria-hidden="true"
-        >
-          <source
-            src="https://customer-ip9lnkk65px0t3ak.cloudflarestream.com/763e656c9cc93e0011a3131920dcd04f/downloads/default.mp4"
-            type="video/mp4"
-          />
-        </video>
+        />
       </div>
 
       {/* Content */}
