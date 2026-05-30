@@ -7,9 +7,9 @@ import TestimonialsSection from "@/components/custom/testimonials/TestimonialsSe
 import CTAFormSection from "@/components/custom/cta/CTAFormSection";
 
 export const metadata: Metadata = {
-  title: "Our Services — UnclogMe | Grease Trap & Drain Unclogging Miami",
+  title: "Roofing Services — Skyward Roofing | NYC Residential & Commercial",
   description:
-    "Explore UnclogMe's full range of services: grease trap cleaning, residential & commercial unclogging, and camera inspections across Miami-Dade.",
+    "Explore Skyward Roofing's full range of services: residential roofing, commercial roofing, flat roofing, free inspections, chimney, and gutters across all five NYC boroughs.",
 };
 
 export default function ServicesPage() {
@@ -17,7 +17,7 @@ export default function ServicesPage() {
     <>
       <PageHeroSection
         title="Our Services"
-        subtitle="Professional grease trap cleaning and drain unclogging services — residential and commercial — across Miami-Dade, Broward & Palm Beach."
+        subtitle="Residential and commercial roofing services across all five NYC boroughs, Yonkers, and Westchester County."
         breadcrumbs={[
           { label: "Home", href: "/" },
           { label: "Services" },

@@ -7,9 +7,9 @@ import CTAFormSection from "@/components/custom/cta/CTAFormSection";
 import TestimonialsSection from "@/components/custom/testimonials/TestimonialsSection";
 
 export const metadata: Metadata = {
-  title: "FAQ — UnclogMe | Frequently Asked Questions",
+  title: "FAQ — Skyward Roofing | NYC Roofing Questions Answered",
   description:
-    "Find answers to the most common questions about our grease trap cleaning and professional unclogging services in Miami-Dade.",
+    "Answers to the most common questions about roof repair vs. replacement, free inspections, licensing, service areas, and what to expect when you call Skyward Roofing.",
 };
 
 export default function FAQPage() {

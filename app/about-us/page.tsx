@@ -9,9 +9,9 @@ import TestimonialsSection from "@/components/custom/testimonials/TestimonialsSe
 import CTAFormSection from "@/components/custom/cta/CTAFormSection";
 
 export const metadata: Metadata = {
-  title: "About Us — UnclogMe | Trusted Drain & Grease Trap Experts",
+  title: "About Skyward Roofing | Third-Generation NYC Roofers",
   description:
-    "Learn about UnclogMe's mission, team, and values. Serving Miami-Dade, Broward & Palm Beach with fast, reliable grease trap and unclogging services.",
+    "Learn about Skyward Roofing — a third-generation, family-owned roofing company serving all five NYC boroughs, Yonkers, and Westchester County. Licensed, bonded & insured.",
 };
 
 export default function AboutPage() {
@@ -19,7 +19,7 @@ export default function AboutPage() {
     <>
       <PageHeroSection
         title="About Us"
-        subtitle="Trusted grease trap and unclogging experts serving Miami-Dade, Broward & Palm Beach."
+        subtitle="Third-generation, family-owned roofers serving all five NYC boroughs, Yonkers, and Westchester County."
         breadcrumbs={[
           { label: "Home", href: "/" },
           { label: "About Us" },

@@ -6,9 +6,9 @@ import BlogSection from "@/components/custom/blog/BlogSection";
 import NeedServicesSection from "@/components/custom/need-services/NeedServicesSection";
 
 export const metadata: Metadata = {
-  title: "Blog — UnclogMe | Drain & Grease Trap Tips & Insights",
+  title: "Roofing Blog — Skyward Roofing | NYC Roofing Tips & Guides",
   description:
-    "Read UnclogMe's blog for expert tips on grease trap maintenance, drain unclogging, and keeping your residential or commercial plumbing in top shape.",
+    "Expert roofing tips, guides, and insights from Skyward Roofing. Topics include repair vs. replacement, flat roofing, NYC winters, gutters, and free inspections.",
 };
 
 export default function BlogPage() {
@@ -16,7 +16,7 @@ export default function BlogPage() {
     <>
       <PageHeroSection
         title="Blog"
-        subtitle="Expert tips, industry insights, and service guides from the UnclogMe team."
+        subtitle="Expert roofing tips, maintenance guides, and NYC-specific advice from the Skyward Roofing team."
         breadcrumbs={[
           { label: "Home", href: "/" },
           { label: "Blog" },
