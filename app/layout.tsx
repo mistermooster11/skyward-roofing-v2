@@ -80,7 +80,7 @@ export default function RootLayout({
       </head>
       <body>
         <PageTransition />
-        <SalePopup businessName="Skyward Roofing" expiryDate="June 15, 2026" trade="roofers" />
+        <SalePopup businessName="Skyward Roofing" expiryDate="June 20, 2026" trade="roofers" />
         <Header />
         <main>{children}</main>
         <Footer />
