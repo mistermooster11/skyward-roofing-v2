@@ -28,9 +28,9 @@ export default function RoofMaintenancePage() {
       />
       <ServiceDetailSection
         activeService="Roof Maintenance"
-        sidebarImage="/images/service-1.png"
-        sidebarImageWidth={535}
-        sidebarImageHeight={643}
+        sidebarImage="https://www.skywardroofing.com/uploads/1/1/6/0/116005231/img-4442-1.jpeg"
+        sidebarImageWidth={800}
+        sidebarImageHeight={600}
         heading="Roof Coatings, Waterproofing & Maintenance"
         intro={[
           "Regular maintenance is the most cost-effective way to extend the life of any roof. Skyward Roofing offers roof coating, waterproofing, and preventive maintenance services that protect your investment and delay the need for a full replacement — often by years.",

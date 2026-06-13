@@ -28,9 +28,9 @@ export default function FlatRoofingPage() {
       />
       <ServiceDetailSection
         activeService="Flat Roofing"
-        sidebarImage="/images/service-3.webp"
-        sidebarImageWidth={535}
-        sidebarImageHeight={643}
+        sidebarImage="https://www.skywardroofing.com/uploads/1/1/6/0/116005231/commercial-flat-roof-install-skyward-roofing-nyc-orig.jpg"
+        sidebarImageWidth={800}
+        sidebarImageHeight={600}
         heading="Flat Roof Installation, Repair & Replacement"
         intro={[
           "Flat roofs are common across NYC's residential and commercial building stock — and they require specific expertise. Skyward Roofing installs, repairs, and replaces all flat roof system types, including TPO (thermoplastic polyolefin), EPDM (rubber membrane), and SPF (spray polyurethane foam).",

@@ -28,9 +28,9 @@ export default function FreeRoofInspectionPage() {
       />
       <ServiceDetailSection
         activeService="Free Roof Inspection"
-        sidebarImage="/images/service-4.webp"
-        sidebarImageWidth={535}
-        sidebarImageHeight={643}
+        sidebarImage="https://www.skywardroofing.com/uploads/1/1/6/0/116005231/skyward-rooofing-service-example-nyc-orig_orig.jpg"
+        sidebarImageWidth={800}
+        sidebarImageHeight={600}
         heading="Free In-Person Roof Inspection"
         intro={[
           "Skyward Roofing provides free roof inspections across all five NYC boroughs, Yonkers, and Westchester County. We don't give phone quotes — an accurate estimate requires actually seeing the roof. Our licensed team walks every inch of the roof, identifies existing damage and potential problem areas, and gives you a clear written estimate before any work begins.",

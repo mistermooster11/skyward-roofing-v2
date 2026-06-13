@@ -28,9 +28,9 @@ export default function CommercialRoofingPage() {
       />
       <ServiceDetailSection
         activeService="Commercial Roofing"
-        sidebarImage="/images/service-2.png"
-        sidebarImageWidth={535}
-        sidebarImageHeight={643}
+        sidebarImage="https://www.skywardroofing.com/uploads/1/1/6/0/116005231/flat-roofing-service-skyward-roofing-nyc-orig.jpg"
+        sidebarImageWidth={800}
+        sidebarImageHeight={600}
         heading="Commercial & Industrial Roofing Services"
         intro={[
           "Skyward Roofing handles commercial and industrial roofing across NYC — from apartment buildings and mixed-use properties to warehouses and retail spaces. Our team specializes in flat roof systems including TPO, EPDM, and SPF, as well as repairs and replacements for large commercial structures.",

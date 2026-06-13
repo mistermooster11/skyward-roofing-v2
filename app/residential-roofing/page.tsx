@@ -28,9 +28,9 @@ export default function ResidentialRoofingPage() {
       />
       <ServiceDetailSection
         activeService="Residential Roofing"
-        sidebarImage="/images/service-1.png"
-        sidebarImageWidth={535}
-        sidebarImageHeight={643}
+        sidebarImage="https://www.skywardroofing.com/uploads/1/1/6/0/116005231/skyward-roofing-service-nyc-orig.jpg"
+        sidebarImageWidth={800}
+        sidebarImageHeight={600}
         heading="Residential Roofing Services"
         intro={[
           "Skyward Roofing handles all residential roofing work across the five boroughs and Westchester — from emergency leak repairs to full roof replacements. Our third-generation team works on every roof type: asphalt shingles, flat roofs, metal, slate, and tile.",
