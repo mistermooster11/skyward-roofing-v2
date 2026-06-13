@@ -28,7 +28,7 @@ export default function FlatRoofingPage() {
       />
       <ServiceDetailSection
         activeService="Flat Roofing"
-        sidebarImage="https://www.skywardroofing.com/uploads/1/1/6/0/116005231/commercial-flat-roof-install-skyward-roofing-nyc-orig.jpg"
+        sidebarImage="/images/worker-applying-roof-coating-roller.jpg"
         sidebarImageWidth={800}
         sidebarImageHeight={600}
         heading="Flat Roof Installation, Repair & Replacement"

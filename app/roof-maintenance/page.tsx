@@ -28,7 +28,7 @@ export default function RoofMaintenancePage() {
       />
       <ServiceDetailSection
         activeService="Roof Maintenance"
-        sidebarImage="https://www.skywardroofing.com/uploads/1/1/6/0/116005231/img-4442-1.jpeg"
+        sidebarImage="/images/chimney-inspection-repair-rooftop-worker.jpg"
         sidebarImageWidth={800}
         sidebarImageHeight={600}
         heading="Roof Coatings, Waterproofing & Maintenance"

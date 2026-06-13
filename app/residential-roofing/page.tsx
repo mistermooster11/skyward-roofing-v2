@@ -28,7 +28,7 @@ export default function ResidentialRoofingPage() {
       />
       <ServiceDetailSection
         activeService="Residential Roofing"
-        sidebarImage="https://www.skywardroofing.com/uploads/1/1/6/0/116005231/skyward-roofing-service-nyc-orig.jpg"
+        sidebarImage="/images/roofers-installing-shingles-teamwork.jpg"
         sidebarImageWidth={800}
         sidebarImageHeight={600}
         heading="Residential Roofing Services"

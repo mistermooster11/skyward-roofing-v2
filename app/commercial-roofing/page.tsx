@@ -28,7 +28,7 @@ export default function CommercialRoofingPage() {
       />
       <ServiceDetailSection
         activeService="Commercial Roofing"
-        sidebarImage="https://www.skywardroofing.com/uploads/1/1/6/0/116005231/flat-roofing-service-skyward-roofing-nyc-orig.jpg"
+        sidebarImage="/images/roofing-crew-installing-shingles-aerial-view.jpg"
         sidebarImageWidth={800}
         sidebarImageHeight={600}
         heading="Commercial & Industrial Roofing Services"

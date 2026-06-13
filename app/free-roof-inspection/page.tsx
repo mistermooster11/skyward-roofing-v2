@@ -28,7 +28,7 @@ export default function FreeRoofInspectionPage() {
       />
       <ServiceDetailSection
         activeService="Free Roof Inspection"
-        sidebarImage="https://www.skywardroofing.com/uploads/1/1/6/0/116005231/skyward-rooofing-service-example-nyc-orig_orig.jpg"
+        sidebarImage="/images/roofer-inspecting-asphalt-shingles-closeup.jpg"
         sidebarImageWidth={800}
         sidebarImageHeight={600}
         heading="Free In-Person Roof Inspection"
